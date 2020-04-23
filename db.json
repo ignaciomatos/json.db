@@ -5,28 +5,28 @@
         "title": "Clases de Paddle",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXTLslkWJECTW5QOIcGeIu_Eka0RCMdC-RxGCSq-punjkAW_RQ&usqp=CAU",
         "price": 30,
-        "profesor": "Ricky Martin"
+        "professor": "Ricky Martin"
     },
     {
         "id": 2,
         "title": "Clases de Metegol",
         "image": "http://infoblancosobrenegro.com/media/W1siZiIsIm5vdGljaWFzLzQ2MDAvZm90by00NjgwLmpwZWciXSxbInAiLCJ0aHVtYiIsIjgwMHgiXV0/metegol.jpg?sha=58ae1d157636d4d0",
         "price": 40,
-        "profesor": "Ricky Fort"
+        "professor": "Ricky Fort"
     },
     {
         "id": 3,
         "title": "Clases de Ping Pong",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsYZdm_eMmj91HosHFmX6UdS9IrOFWzP75dbiqG7uyRp30kMoM&usqp=CAU",
         "price": 50,
-        "profesor": "Ricky Maravilla"
+        "professor": "Ricky Maravilla"
     },
     {
         "id": 4,
         "title": "Clases de Pool",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxXtnKN53Ms5r0zuY9StIOyOLzXU0ywhTX8eql-AC5zc_JVmNl&usqp=CAU",
         "price": 60,
-        "profesor": "Ricky Pashcus"
+        "professor": "Ricky Pashcus"
     }
     ]
 }
